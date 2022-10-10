@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "uplaod-files-spfx",
+    "libraryId": "fc83eab8-e6f7-4c66-97a2-1a21fb67d347",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "uplaod-files-spfx",
+    "solutionShortDescription": "uplaod-files-spfx description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

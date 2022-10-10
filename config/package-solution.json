@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "uplaod-files-spfx-client-side-solution",
+    "id": "fc83eab8-e6f7-4c66-97a2-1a21fb67d347",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "uplaod-files-spfx description"
+      },
+      "longDescription": {
+        "default": "uplaod-files-spfx description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "uplaod-files-spfx Feature",
+        "description": "The feature that activates elements of the uplaod-files-spfx solution.",
+        "id": "07058359-fcc8-4e89-ac62-d60ff4a871ef",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/uplaod-files-spfx.sppkg"
+  }
+}
